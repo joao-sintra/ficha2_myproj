@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ficheiro 3 
 
 <h1>Lista de coisas</h1>
@@ -12,6 +13,17 @@ ficheiro 3
 </ul>
 
 
+
+
+=======
+
+
+ficheiro 3
+
+
+
+
+
 <h1>Lista de coisas</h1>
 <h2>Comidas</h2>
 
@@ -21,4 +33,4 @@ ficheiro 3
   <li>Tosta</li>
   <li>Torrada</li>
 </ul>
-
+>>>>>>> NovaFeature
