@@ -1,1 +1,16 @@
 ficheiro 3 
+
+<h1>Lista de coisas</h1>
+
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>sumo</li>
+  <li>leite</li>
+  <li>batido</li>
+</ul>
+
+
+
+
